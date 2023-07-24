@@ -4,6 +4,7 @@ package ke.co.safaricom;
 import java.util.Scanner;
 
 public class Main {
+
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.println("What year were you born?");
@@ -16,6 +17,6 @@ public class Main {
     }
   }
 }
-for
+
 
 
